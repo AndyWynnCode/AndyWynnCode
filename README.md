@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AndyWynnCode
-- 👀 I’m interested in desktop development, but Ive been doing that for years. Far more interesting is the Web landscape, and I have been negligent in learning about it.
-- 🌱 I’m currently learning React.js, along with the stack of Firebase, Node, and Express. I'm always learning C#/.NET, in my ongoing and uncompletable quest to know everything.
-- 📫 https://twitter.com/AndyWynnCode
+I've spent 20 years following C# and dotNet, with occasional branches into other languages.
+
+Currently those branches are embedded computing with C, and Angular for a web project.
